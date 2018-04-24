@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ronak_59
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ronakdoshi.me
+  * I am ronak_59 (https://keybase.io/ronak_59) on keybase.
+  * I have a public key ASB4G8drUh5Mjx83gMn7TJPwrEXWzpqf4URW_L0x7LYirwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207acd58045670514099c5f5959775673e9674fca2d54107bf2583c37c152776bf0a",
+      "host": "keybase.io",
+      "kid": "0120781bc76b521e4c8f1f3780c9fb4c93f0ac45d6ce9a9fe14456fcbd31ecb622af0a",
+      "uid": "a3287c1259564a3ab911fe66608cf519",
+      "username": "ronak_59"
+    },
+    "merkle_root": {
+      "ctime": 1524587054,
+      "hash": "4d1b48f169f579e08d8947143692dcae8df066998f645d09a5ec10d7fd962b16e8660b1305ce1530e6e3f98da7ee854919f569e4947f95eace5bc3224a3601d8",
+      "hash_meta": "efda38652ba6219bf17bebee42340d40bc0aefd877082b12a73a65f37ebbe142",
+      "seqno": 2435951
+    },
+    "service": {
+      "entropy": "rxuhmsdKyD2GPL+SpUfLWmlA",
+      "hostname": "www.ronakdoshi.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1524587091,
+  "expire_in": 504576000,
+  "prev": "3bd626d354bccd4979af9c5cf8c92a6b63929aebc46a03189886845f4cbbcd95",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeBvHa1IeTI8fN4DJ+0yT8KxF1s6an+FEVvy9Mey2Iq8Kp3BheWxvYWTESpcCD8QgO9Ym01S8zUl5r5xc+Mkqa2OSmuvEagMYmIaEX0y7zZXEIBFnE1I+JarnUyMb+aHUkdFB5aphiQK4MxYL701gkoReAgHCo3NpZ8RAfFoKpDsrqU/zA1AjdYKxqponcEvrC1aylqzVLHSl/73/UW2Te0L09m0uLSR9TuWmhtepjRfItb0846GOn55DBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILu7TOkrbi93yOoejdl6OgrAsIcVhLo5K89E3LWuDuOXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ronak_59
+
+==================================================================
