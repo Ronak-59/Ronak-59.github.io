@@ -66,7 +66,7 @@ function readImage() {
              $(".preloader").show();
 const Clarifai = require('clarifai');
     const app = new Clarifai.App({
- apiKey: 'f5ef19ab65354264b7e4142cf019fa7b'
+ apiKey: '5ac17437bd504e5ba2b743bf05fa8b27'
 });
 app.models.predict("bd367be194cf45149e75f01d59f77ba7", t).then(
     function(response) {
